@@ -1,0 +1,12 @@
+{
+  "name": "design-brief-site",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Daily design & fashion brief powered by Claude",
+  "scripts": {
+    "generate": "node scripts/generate-brief.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
