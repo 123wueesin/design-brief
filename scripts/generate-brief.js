@@ -8,7 +8,7 @@ const today = new Date().toLocaleDateString('zh-TW', {
 
 const PROMPT = `你是一個設計與時尚領域的資訊編輯。今天是 ${today}。
 
-請從 Dezeen 和 It's Nice That 等設計媒體中，找出今天或最近幾天最值得關注的 4 篇文章，分成「設計（平面/產品/建築）」和「時尚（品牌/趨勢/永續）」兩類，每類至少 1-2 篇。
+請從 Dezeen 和 It's Nice That 等設計媒體中，找出今天（${today}）或昨天發布的最新文章，共 4 篇。注意：只能選 2026 年 5 月發布的文章，絕對不能使用 2025 年或更早的文章。如果找不到足夠的新文章，寧可減少篇數也不要用舊文章。
 
 對每篇文章，請用以下 JSON 格式整理。只回傳純 JSON，不要任何說明或 markdown：
 
