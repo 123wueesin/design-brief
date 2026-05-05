@@ -8,7 +8,7 @@ const today = new Date().toLocaleDateString('zh-TW', {
 
 const PROMPT = `你是一個設計與時尚領域的資訊編輯。今天是 ${today}。
 
-請從 Dezeen 和 It's Nice That 等設計媒體中，找出今天（${today}）或昨天發布的最新文章，共 10 篇。注意：只能選 2026 年 5 月發布的文章，絕對不能使用 2025 年或更早的文章。如果找不到足夠的新文章，寧可減少篇數也不要用舊文章。
+請從 Dezeen 和 It's Nice That 等設計媒體中，找出今天（${today}）或昨天發布的最新文章，共 4 篇。注意：只能選 2026 年發布的文章，絕對不能使用 2025 年或更早的文章。如果找不到足夠的新文章，寧可減少篇數也不要用舊文章。分成「設計（平面/產品/建築）」和「時尚（品牌/趨勢/永續）」兩類，每類至少 1-2 篇。
 
 對每篇文章，請用以下 JSON 格式整理。只回傳純 JSON，不要任何說明或 markdown：
 
@@ -18,11 +18,12 @@ const PROMPT = `你是一個設計與時尚領域的資訊編輯。今天是 ${t
       "title": "文章標題（中文翻譯或原標題）",
       "source": "媒體來源名稱",
       "category": "設計",
-      "url": "文章完整網址（若知道）",
-      "summary": "核心摘要，120字以內，這篇在說什麼、為什麼重要",
-      "details": "設計語言/工法細節 或 品牌定位/美學方向，具體描述，80字以內",
-      "context": "趨勢脈絡：反映了哪些更大的市場或文化走向，80字以內",
-      "pov": "給讀者的思考提問或觀點引導，50字以內",
+      "url": "文章完整網址",
+      "image_url": "文章封面圖的直接網址（必須是 .jpg .png .webp 等圖片格式的完整 URL，從文章頁面或 og:image 取得，找不到則填 null）",
+      "summary": "核心摘要，120字以內",
+      "details": "設計語言/工法細節 或 品牌定位/美學方向，80字以內",
+      "context": "趨勢脈絡，80字以內",
+      "pov": "給讀者的思考提問，50字以內",
       "tags": ["關鍵字1", "關鍵字2", "關鍵字3", "關鍵字4"]
     }
   ],
@@ -40,17 +41,10 @@ async function generateBrief() {
       'anthropic-version': '2023-06-01',
     },
     body: JSON.stringify({
-     model: 'claude-sonnet-4-5',
+      model: 'claude-sonnet-4-5',
       max_tokens: 4000,
-      tools: [
-        {
-          type: 'web_search_20250305',
-          name: 'web_search'
-        }
-      ],
-      messages: [
-        { role: 'user', content: PROMPT }
-      ]
+      tools: [{ type: 'web_search_20250305', name: 'web_search' }],
+      messages: [{ role: 'user', content: PROMPT }]
     })
   });
 
@@ -60,32 +54,21 @@ async function generateBrief() {
   }
 
   const data = await response.json();
-
-  // Extract text from response
   const textContent = data.content
     .filter(b => b.type === 'text')
     .map(b => b.text)
     .join('');
 
-  // Parse JSON from response
   const jsonStart = textContent.indexOf('{');
   const jsonEnd = textContent.lastIndexOf('}');
-  if (jsonStart === -1 || jsonEnd === -1) {
-    throw new Error('No JSON found in response');
-  }
+  if (jsonStart === -1 || jsonEnd === -1) throw new Error('No JSON found in response');
 
-  const jsonStr = textContent.substring(jsonStart, jsonEnd + 1);
-  const brief = JSON.parse(jsonStr);
+  const brief = JSON.parse(textContent.substring(jsonStart, jsonEnd + 1));
+  if (!brief.articles || !Array.isArray(brief.articles)) throw new Error('Invalid brief structure');
 
-  // Validate structure
-  if (!brief.articles || !Array.isArray(brief.articles)) {
-    throw new Error('Invalid brief structure');
-  }
-
-  // Write to file
   fs.writeFileSync('brief.json', JSON.stringify(brief, null, 2), 'utf-8');
   console.log(`✓ Generated brief with ${brief.articles.length} articles`);
-  brief.articles.forEach(a => console.log(`  · [${a.category}] ${a.title}`));
+  brief.articles.forEach(a => console.log(`  · [${a.category}] ${a.title} ${a.image_url ? '🖼' : '—'}`));
 }
 
 generateBrief().catch(err => {
