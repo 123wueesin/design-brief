@@ -1,5 +1,69 @@
 {
-  "articles": [],
-  "generated_at": "2026-05-05T03:13:01.592Z",
-  "error": "Unable to find articles published specifically on May 4-5, 2026 from Dezeen or It's Nice That. Search results show content from late April and early May 2026, but not from the requested dates."
+  "articles": [
+    {
+      "title": "Iris van Herpen crafts Met Gala dress from 15,000 glass bubbles",
+      "source": "Dezeen",
+      "category": "時尚",
+      "url": "https://www.dezeen.com/2026/05/05/iris-van-herpen-met-gala-dress-15000-glass-bubbles/",
+      "image_url": null,
+      "summary": "荷蘭時裝設計師Iris van Herpen與東京倫敦工作室AA Murakami合作,為奧運選手Eileen Gu打造了一件由15,000個虹彩玻璃球體覆蓋的變形禮服Airo,裙擺下隱藏的微處理器在紅毯上釋放真實氣泡,營造出「溶解於空氣中」的視覺效果,於昨晚紐約大都會藝術博物館Met Gala首次亮相。",
+      "details": "這件高級定製服裝結合了科技與工藝,設計團隊編程協調壓縮氣體的釋放,讓禮服呈現逐漸消散的動態美學。Van Herpen以突破界限的服裝製作方法聞名,將技術帶入精緻的高級時裝。",
+      "context": "Met Gala作為時尚界年度盛事,持續推動設計師探索科技與時裝的融合。可穿戴科技、互動式服裝和數位化材料正成為高級時裝的新方向,展現時尚產業對創新材料和技術應用的持續探索。",
+      "pov": "科技賦能的高級時裝不只是視覺奇觀,更是對服裝未來可能性的前瞻宣言。",
+      "tags": [
+        "高級時裝",
+        "可穿戴科技",
+        "Met Gala"
+      ]
+    },
+    {
+      "title": "DesignMarch 2026: Design, Everywhere, All At Once",
+      "source": "Grapevine (DesignMarch報導)",
+      "category": "設計",
+      "url": "https://grapevine.is/icelandic-culture/2026/05/05/designmarch-2026-design-everywhere-all-at-once/",
+      "image_url": null,
+      "summary": "冰島最大設計節DesignMarch第18屆於5月6-10日在雷克雅維克舉行,規模超越Iceland Airwaves音樂節。五天內有超過100場免費展覽、活動、表演和實驗性晚餐,涵蓋建築、時尚、產品設計、陶瓷到家具。建築師Anna Karlsdóttir和Jan Dobrowolski邀請訪客前往Grímsnes參觀冰島首座大麻屋。",
+      "details": "今年主題為「連結」(Connections),探討人類對有意義連結的需求及其對社區和城市設計的影響。日本建築師隈研吾將發表講座和電影放映,多場建築導覽和開放工作室活動,延續去年Lavaforming項目開啟的創新材料探索趨勢。",
+      "context": "北歐設計節持續強化永續材料和在地文化的結合,從火山工藝到大麻建築,設計師正利用地方獨特資源創造循環經濟解決方案。氣候變遷驅動北極地區的創意革新,成為全球設計界關注焦點。",
+      "pov": "設計節不再只是展示美學,更是地方材料實驗室和永續未來的孵化器。",
+      "tags": [
+        "永續建築",
+        "北歐設計",
+        "材料創新"
+      ]
+    },
+    {
+      "title": "GS Architecture retrofits Hampstead Passive House with fabric-first approach",
+      "source": "Dezeen",
+      "category": "設計",
+      "url": "https://www.dezeen.com/2026/05/01/gs-architecture-hampstead-passive-house/",
+      "image_url": null,
+      "summary": "倫敦建築事務所GS Architecture完成了Hampstead Heath一棟維多利亞時期半獨立式家庭住宅的改造和擴建,將其升級至低能耗Passivhaus標準。項目採用「織物優先」策略,通過改良保溫、三層玻璃窗、太陽能板和機械通風熱回收系統,大幅降低能源消耗,同時創造更舒適明亮的居住空間。",
+      "details": "該項目達到嚴格的Passivhaus EnerPHit標準,這是針對既有建築翻新的低能耗認證。木框架擴建部分容納了廚房和餐廳空間,保留了原有樓梯和結構織物,在歷史保護與環境責任之間取得平衡。",
+      "context": "既有建築的深度能源改造正成為應對氣候變化的關鍵策略。歐洲各國推動歷史建築升級至Passivhaus標準,展現傳統建築存量如何透過現代技術實現碳中和目標,為城市更新提供可複製模式。",
+      "pov": "歷史建築的價值不只在於保存過去,更在於示範永續未來的可能。",
+      "tags": [
+        "被動式建築",
+        "既有建築改造",
+        "綠色翻新"
+      ]
+    },
+    {
+      "title": "The Invisible Made Visible exhibition during London Craft Week",
+      "source": "Dezeen Events Guide",
+      "category": "設計",
+      "url": "https://www.dezeen.com/eventsguide/2026/05/the-invisible-made-visible/",
+      "image_url": null,
+      "summary": "作為2026年倫敦工藝週計畫的一部分,Blackdot畫廊於5月14-16日舉辦群展「讓不可見變得可見」,探索設計背後看不見的勞動。展覽涵蓋珠寶、陶瓷、雕塑、裝置、家具、玻璃、紡織和可穿戴物件等多種學科,展示傳統和實驗性作品,邀請觀眾進入工藝製作過程,慶祝創作者的奉獻。",
+      "details": "展覽在倫敦Caledonian Road 9號舉行,聚焦工藝製作過程中往往被忽視的時間、技術和情感投入,透過多元媒材呈現手工製作的價值和意義。",
+      "context": "在AI和數位製造快速發展的時代,工藝運動重新強調手作的不可替代性。設計界正反思勞動的可見性和價值認定,將製作過程本身視為值得展示和討論的主題,挑戰快速消費文化。",
+      "pov": "讓製作過程可見,就是讓價值回歸創造者手中。",
+      "tags": [
+        "工藝週",
+        "手工藝",
+        "製作過程"
+      ]
+    }
+  ],
+  "generated_at": "2026-05-06T02:09:54.543Z"
 }
