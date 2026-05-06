@@ -1,69 +1,69 @@
 {
   "articles": [
     {
-      "title": "Iris van Herpen crafts Met Gala dress from 15,000 glass bubbles",
-      "source": "Dezeen",
-      "category": "時尚",
-      "url": "https://www.dezeen.com/2026/05/05/iris-van-herpen-met-gala-dress-15000-glass-bubbles/",
-      "image_url": null,
-      "summary": "荷蘭時裝設計師Iris van Herpen與東京倫敦工作室AA Murakami合作,為奧運選手Eileen Gu打造了一件由15,000個虹彩玻璃球體覆蓋的變形禮服Airo,裙擺下隱藏的微處理器在紅毯上釋放真實氣泡,營造出「溶解於空氣中」的視覺效果,於昨晚紐約大都會藝術博物館Met Gala首次亮相。",
-      "details": "這件高級定製服裝結合了科技與工藝,設計團隊編程協調壓縮氣體的釋放,讓禮服呈現逐漸消散的動態美學。Van Herpen以突破界限的服裝製作方法聞名,將技術帶入精緻的高級時裝。",
-      "context": "Met Gala作為時尚界年度盛事,持續推動設計師探索科技與時裝的融合。可穿戴科技、互動式服裝和數位化材料正成為高級時裝的新方向,展現時尚產業對創新材料和技術應用的持續探索。",
-      "pov": "科技賦能的高級時裝不只是視覺奇觀,更是對服裝未來可能性的前瞻宣言。",
-      "tags": [
-        "高級時裝",
-        "可穿戴科技",
-        "Met Gala"
-      ]
-    },
-    {
-      "title": "DesignMarch 2026: Design, Everywhere, All At Once",
-      "source": "Grapevine (DesignMarch報導)",
-      "category": "設計",
-      "url": "https://grapevine.is/icelandic-culture/2026/05/05/designmarch-2026-design-everywhere-all-at-once/",
-      "image_url": null,
-      "summary": "冰島最大設計節DesignMarch第18屆於5月6-10日在雷克雅維克舉行,規模超越Iceland Airwaves音樂節。五天內有超過100場免費展覽、活動、表演和實驗性晚餐,涵蓋建築、時尚、產品設計、陶瓷到家具。建築師Anna Karlsdóttir和Jan Dobrowolski邀請訪客前往Grímsnes參觀冰島首座大麻屋。",
-      "details": "今年主題為「連結」(Connections),探討人類對有意義連結的需求及其對社區和城市設計的影響。日本建築師隈研吾將發表講座和電影放映,多場建築導覽和開放工作室活動,延續去年Lavaforming項目開啟的創新材料探索趨勢。",
-      "context": "北歐設計節持續強化永續材料和在地文化的結合,從火山工藝到大麻建築,設計師正利用地方獨特資源創造循環經濟解決方案。氣候變遷驅動北極地區的創意革新,成為全球設計界關注焦點。",
-      "pov": "設計節不再只是展示美學,更是地方材料實驗室和永續未來的孵化器。",
-      "tags": [
-        "永續建築",
-        "北歐設計",
-        "材料創新"
-      ]
-    },
-    {
       "title": "GS Architecture retrofits Hampstead Passive House with fabric-first approach",
       "source": "Dezeen",
       "category": "設計",
       "url": "https://www.dezeen.com/2026/05/01/gs-architecture-hampstead-passive-house/",
       "image_url": null,
-      "summary": "倫敦建築事務所GS Architecture完成了Hampstead Heath一棟維多利亞時期半獨立式家庭住宅的改造和擴建,將其升級至低能耗Passivhaus標準。項目採用「織物優先」策略,通過改良保溫、三層玻璃窗、太陽能板和機械通風熱回收系統,大幅降低能源消耗,同時創造更舒適明亮的居住空間。",
-      "details": "該項目達到嚴格的Passivhaus EnerPHit標準,這是針對既有建築翻新的低能耗認證。木框架擴建部分容納了廚房和餐廳空間,保留了原有樓梯和結構織物,在歷史保護與環境責任之間取得平衡。",
-      "context": "既有建築的深度能源改造正成為應對氣候變化的關鍵策略。歐洲各國推動歷史建築升級至Passivhaus標準,展現傳統建築存量如何透過現代技術實現碳中和目標,為城市更新提供可複製模式。",
-      "pov": "歷史建築的價值不只在於保存過去,更在於示範永續未來的可能。",
+      "summary": "倫敦建築工作室GS Architecture完成了位於Hampstead Heath的維多利亞式半獨立住宅翻新,將其升級至被動式房屋EnerPHit標準。該項目採用以建築外殼為優先的策略,使用木纖維絕緣材料和三層玻璃窗,並加入太陽能板、低能耗照明和機械通風熱回收系統,大幅降低能源消耗,創造光線充足且舒適的居住空間。",
+      "details": "工作室保留原有樓梯和地板,避免不必要的材料浪費。後方新增木框架擴建,採用再生磚和天然材料,與歷史建築和諧共存。野花綠屋頂增強生物多樣性,同時在臥室和花園之間建立自然連結。室內設計由Axel Vervoordt Co.操刀。",
+      "context": "被動式房屋改造標準代表既有建築節能升級的嚴格認證,此案展示維多利亞時期建築如何在保護歷史價值的同時達到當代環境要求,為英國住宅存量改造提供示範。",
+      "pov": "可持續建築不該犧牲歷史特色,織物優先策略證明傳統建築能夠達到極高性能標準。",
       "tags": [
-        "被動式建築",
-        "既有建築改造",
-        "綠色翻新"
+        "被動式房屋",
+        "可持續建築",
+        "歷史建築改造"
       ]
     },
     {
-      "title": "The Invisible Made Visible exhibition during London Craft Week",
-      "source": "Dezeen Events Guide",
+      "title": "Iris van Herpen crafts Met Gala dress from 15,000 glass bubbles",
+      "source": "Dezeen",
+      "category": "時尚",
+      "url": "https://www.dezeen.com/2026/05/05/iris-van-herpen-met-gala-dress-15000-glass-bubbles/",
+      "image_url": null,
+      "summary": "荷蘭時裝設計師Iris van Herpen與東京倫敦工作室AA Murakami合作,為奧運選手Eileen Gu打造了由15,000顆虹彩玻璃球體組成的變形禮服Airo,在紐約Met Gala首次亮相。裙下隱藏的微處理器可釋放加壓氣體,使禮服看起來像是正在「溶解到空氣中」,呼應今年Met Gala「時尚即藝術」主題。耗時2,550小時完成。",
+      "details": "設計團隊將每個玻璃球體用紫外線光單獨黏合,創造精緻而可控的結構。微處理器協調釋放時機,在紅毯上吹出真實氣泡。Van Herpen表示設計反映人體的原子結構,由99.9%的空白空間組成,表達身體的短暫、流動與不斷變化。",
+      "context": "這件作品延續Van Herpen將科技融入高級訂製服的實驗精神,繼去年與生物設計師合作創造發光藻類禮服後,再次突破服裝與科技的界線,將服裝轉化為動態表演裝置。",
+      "pov": "時尚不只是裝飾,而是結合科技、藝術與身體的動態場域,服裝可以成為即時發生的事件。",
+      "tags": [
+        "高級訂製",
+        "科技時尚",
+        "Met Gala 2026"
+      ]
+    },
+    {
+      "title": "The Invisible Made Visible exhibition at London Craft Week 2026",
+      "source": "Dezeen",
       "category": "設計",
       "url": "https://www.dezeen.com/eventsguide/2026/05/the-invisible-made-visible/",
       "image_url": null,
-      "summary": "作為2026年倫敦工藝週計畫的一部分,Blackdot畫廊於5月14-16日舉辦群展「讓不可見變得可見」,探索設計背後看不見的勞動。展覽涵蓋珠寶、陶瓷、雕塑、裝置、家具、玻璃、紡織和可穿戴物件等多種學科,展示傳統和實驗性作品,邀請觀眾進入工藝製作過程,慶祝創作者的奉獻。",
-      "details": "展覽在倫敦Caledonian Road 9號舉行,聚焦工藝製作過程中往往被忽視的時間、技術和情感投入,透過多元媒材呈現手工製作的價值和意義。",
-      "context": "在AI和數位製造快速發展的時代,工藝運動重新強調手作的不可替代性。設計界正反思勞動的可見性和價值認定,將製作過程本身視為值得展示和討論的主題,挑戰快速消費文化。",
-      "pov": "讓製作過程可見,就是讓價值回歸創造者手中。",
+      "summary": "作為2026倫敦工藝週計畫的一部分,Blackdot Gallery舉辦群展探索設計背後看不見的勞動。展覽呈現珠寶、陶瓷、雕塑、裝置、家具、玻璃、紡織品和可穿戴物件等多種學科作品,展示傳統和實驗性創作,邀請觀眾進入製作過程,慶祝創作者和設計師的奉獻精神。展期為5月14-16日。",
+      "details": "展覽位於倫敦Caledonian Road 9號,透過展示不同工藝形式的製作過程,揭示工藝品背後的時間、技術與人力投入,讓通常隱藏的勞動過程變得可見。",
+      "context": "在快速生產和AI工具普及的時代,此展覽強調手工藝和緩慢製作的價值,回應設計界對真實性、工藝和有意義勞動的重新關注。2026年倫敦工藝週匯集全球約1,000位創作者。",
+      "pov": "設計的價值不僅在成品,更在看不見的製作過程、時間與人的投入中。",
       "tags": [
         "工藝週",
         "手工藝",
         "製作過程"
       ]
+    },
+    {
+      "title": "Chanel Spring Summer 2026 haute couture show at Grand Palais",
+      "source": "Dezeen",
+      "category": "時尚",
+      "url": "https://www.dezeen.com/tag/fashion-tag/",
+      "image_url": null,
+      "summary": "法國時裝品牌Chanel在巴黎大皇宮打造愛麗絲夢遊仙境風格的巨型蘑菇和真實樹木,為2026春夏高級訂製服系列秀創造夢幻伸展台。巨大蘑菇裝置和自然元素轉化了歷史悠久的大皇宮空間,營造出超現實與有機共存的氛圍。",
+      "details": "伸展台設計以高聳蘑菇為視覺焦點,融合真實樹木元素,創造奇幻場景。這種沉浸式布景延續Chanel高級訂製服秀的大型裝置傳統,將建築空間轉化為敘事環境。",
+      "context": "2026時尚界持續探索超現實主義、自然與夢幻美學,Chanel此舉呼應整體趨勢,將高級訂製服秀從單純展示轉化為完整的感官體驗和視覺敘事。",
+      "pov": "高級訂製服秀已超越服裝展示,成為沉浸式藝術裝置,空間敘事與服裝設計同等重要。",
+      "tags": [
+        "Chanel",
+        "高級訂製服",
+        "巴黎時裝週"
+      ]
     }
   ],
-  "generated_at": "2026-05-06T02:09:54.543Z"
+  "generated_at": "2026-05-06T09:38:31.351Z"
 }
