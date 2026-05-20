@@ -1,5 +1,69 @@
 {
-  "articles": [],
-  "generated_at": "2026-05-16T08:21:46.618Z",
-  "error": "無法找到符合條件的文章。根據搜尋結果，Dezeen 和 It's Nice That 在 2026 年 5 月 15-16 日期間未發布足夠的新文章來滿足您的需求。目前正值 NYCxDesign 設計週期間(5月14-20日),但具體日期標註為 5 月 15 或 16 日的獨立文章數量不足。建議放寬日期範圍至本週(5月14-20日)或最近發布的文章。"
+  "articles": [
+    {
+      "title": "Google rolls out Neural Expressive redesign of Gemini AI tool",
+      "source": "Dezeen",
+      "category": "設計",
+      "url": "https://www.dezeen.com/2026/05/19/google-rolls-out-neural-expressive-redesign-of-gemini-ai-tool/",
+      "image_url": null,
+      "summary": "美國科技巨頭 Google 在年度 I/O 開發者大會上宣布為其 Gemini AI 模型推出全新視覺識別,採用新字體和鮮豔色彩。這個名為「Neural Expressive」的設計語言將應用於 Google 平台的圖形元素,並整合到今秋發布的 AI 眼鏡中。",
+      "details": "新設計包含軟體更新如區域口音和方言功能,伴隨應用程式圖標的重新設計。會議於加州山景城舉行,Google 深入擴展和重新設計 Gemini,將其整合至即將推出的 AI 眼鏡中。",
+      "context": "人工智慧設計介面正成為科技公司的核心競爭領域,各大品牌透過視覺識別強化 AI 產品的使用者體驗與品牌辨識度,反映 AI 技術從功能導向轉向體驗導向的趨勢。",
+      "pov": "科技巨頭正透過設計語言重新定義 AI 互動體驗,將技術人性化。",
+      "tags": [
+        "AI設計",
+        "視覺識別",
+        "Google"
+      ]
+    },
+    {
+      "title": "Selldorf Architects and Studios Architecture set to add subterranean entrances to Musée du Louvre",
+      "source": "Dezeen",
+      "category": "設計",
+      "url": "https://www.dezeen.com/2026/05/19/louvre-renovation-entrances-selldorf-architects-studios-architecture-winner/",
+      "image_url": null,
+      "summary": "紐約 Selldorf Architects 和巴黎 Studios Architecture 贏得羅浮宮 35 年來最大規模翻新競賽。法國文化部長宣布獲勝方案,將為這座歷史博物館創建兩個新的地下入口,以及專門展示蒙娜麗莎的展覽空間。",
+      "details": "該提案從五個入圍方案中脫穎而出,競爭對手包括倫敦 AL_A、日本 Sou Fujimoto Architects、美國 Diller Scofidio + Renfro 與法國 Architecturestudio,以及日本 SANAA 與法國 Dubuisson Architecture。翻新將創建雙地下入口系統。",
+      "context": "全球頂尖博物館正重新思考參觀者動線與展覽空間配置,透過建築介入提升文化體驗。羅浮宮此次翻新反映博物館建築從單純展示空間轉向注重訪客體驗的整體設計思維。",
+      "pov": "文化機構正透過建築創新重新定義公眾與藝術的互動方式。",
+      "tags": [
+        "博物館設計",
+        "建築競賽",
+        "羅浮宮"
+      ]
+    },
+    {
+      "title": "What aesthetic is this? Elizabeth Goodspeed on the push to categorise visual culture",
+      "source": "It's Nice That",
+      "category": "設計",
+      "url": "https://www.itsnicethat.com/articles/elizabeth-goodspeed-whats-in-a-name-categorising-aesthetics-creative-industry-190526",
+      "image_url": null,
+      "summary": "It's Nice That 美國主編 Elizabeth Goodspeed 探討近年在網路圖片下方出現的新現象:「這是什麼美學?」這種提問反映了當代文化的新假設——每張圖片都屬於一個連貫且可命名的類別,從 Vaporwave、Cottagecore 到 Corporate Memphis。",
+      "details": "文章追溯圖像分類的歷史演變,從攝影術發明前圖像是稀缺的實體物件,到大眾印刷、雜誌、電視和網路徹底改變人們與圖像的關係。演算法將圖像呈現為群集,訓練觀眾將視覺相似性視為更廣泛隸屬關係的證據。",
+      "context": "社群媒體演算法和視覺搜尋工具重塑了我們理解和分類視覺文化的方式,反映數位時代對可命名性和可搜尋性的執著,同時也引發對創意自由和文化複雜性的討論。",
+      "pov": "過度分類可能限制創意表達,不透明性或許是對抗演算法分類壓力的抵抗形式。",
+      "tags": [
+        "視覺文化",
+        "美學分類",
+        "網路文化"
+      ]
+    },
+    {
+      "title": "The New Workwear Wardrobe: 2026 Trends Redefining Office Dressing",
+      "source": "WWD",
+      "category": "時尚",
+      "url": "https://wwd.com/fashion-news/fashion-scoops/workwear-staples-trends-2026-1238955996/",
+      "image_url": null,
+      "summary": "2026 年職場著裝趨勢正在重新定義辦公室時尚。從 Bottega Veneta 到 Kallmeyer 和 Celine,設計師透過層次造型、寬鬆輪廓和更極繁主義的搭配來詮釋職場服裝,打造出既精緻又富玩味的造型。企業著裝全面回歸,但這次感覺更輕鬆自在。",
+      "details": "Chanel 2026 春季系列中,手套式高跟鞋以全新色彩、質地和光澤重新演繹經典職場鞋款。Argent 創辦人 Sali Christeson 表示:「現代職場衣櫥較少僵化規則和正式感,更多關於功能性、舒適度和穿著自信。」",
+      "context": "後疫情時代混合辦公模式重塑職場著裝文化,專業與休閒界線模糊,設計師透過功能美學和個性化細節回應現代工作者對靈活性與表達自我的需求,辦公室時尚進入新紀元。",
+      "pov": "職場服裝不再是制式規範,而是功能與個性的平衡表達。",
+      "tags": [
+        "職場時尚",
+        "2026趨勢",
+        "辦公室穿搭"
+      ]
+    }
+  ],
+  "generated_at": "2026-05-20T11:38:24.300Z"
 }
