@@ -1,69 +1,69 @@
 {
   "articles": [
     {
-      "title": "This week a 60-building data centre by Gensler was unveiled",
+      "title": "Ferrari launches first electric car by Jony Ive and Marc Newson",
       "source": "Dezeen",
       "category": "設計",
-      "url": "https://www.dezeen.com/2026/05/23/utah-data-centre-gensler-this-week/",
-      "image_url": null,
-      "summary": "Gensler設計的Stratos Hyperscale Data Center在猶他州揭幕,預計將成為世界上最大的數據中心開發項目之一,完成後將包含60座大型數據中心。同時Gensler也發布了在亞利桑那州的Thistle Data Center的渲染圖,採用耐候鋼立面設計,旨在為城市做出有意義的貢獻。",
-      "details": "Stratos位於Box Elder County,Thistle擁有耐候鋼外觀。Gensler強調項目的設計目的是提供civic contribution,並關注永續性與城市貢獻。",
-      "context": "數據中心建設是2026年科技基建的重要趨勢,大型建築事務所如Gensler正在引領這一領域的設計創新,將功能性建築賦予建築美學與環境責任。",
-      "pov": "數據中心不再只是功能性建築,正在成為城市地標與永續設計的試驗場。",
+      "url": "https://www.dezeen.com/2026/05/25/electric-ferrari-luce-jony-ive-marc-newson-lovefrom/",
+      "image_url": "https://www.dezeen.com/cdn/shop/files/Ferrari_Luce_hero.jpg",
+      "summary": "Ferrari發布首款電動車Luce,由Jony Ive和Marc Newson的LoveFrom工作室設計。車身採用大型曲面玻璃艙配鋁合金外殼,呈現流線型淚滴造型。內裝採用機械按鈕、旋鈕和開關,摒棄觸控螢幕主導設計,回歸經典跑車的實體控制方式。配備四個電動馬達,總功率超過1035馬力。",
+      "details": "車身長度超過5米,最高時速310公里。擋風玻璃雨刷垂直配置以減少空氣阻力。採用122 kWh電池,續航力超過530公里。起價為55萬歐元,2026年底開始生產。",
+      "context": "這款車標誌著Ferrari進入電動車市場的重要里程碑,同時也是對汽車設計趨勢的反思。在電動車普遍採用大型觸控螢幕的時代,Luce選擇回歸實體控制介面,強調觸覺體驗和直觀操作。",
+      "pov": "設計回歸本質,實體控制勝過數位螢幕的堆砌",
       "tags": [
-        "數據中心",
-        "Gensler",
-        "建築設計"
+        "電動車設計",
+        "LoveFrom",
+        "Ferrari"
       ]
     },
     {
-      "title": "Six exhibitions spotlighting designer-makers at Melbourne Design Week",
+      "title": "Heatherwick Studio designs Jins glasses informed by movement of liquid",
       "source": "Dezeen",
       "category": "設計",
-      "url": "https://www.dezeen.com/2026/05/21/melbourne-design-week-exhibitions/",
-      "image_url": null,
-      "summary": "墨爾本設計週(5月14-24日)展示了當代澳洲設計,聚焦材料主導的製作實踐。策展人Timothy Moore表示,設計師-製造者場景正在澳洲復興,人們在數位化時代轉向類比製作。100 Chairs展覽展出超過100把澳洲設計製造的椅子,探索形式與材料的可能性,包括充氣露營椅、使用牛仔布邊角料的餐椅等創新設計。",
-      "details": "展覽包括100 Chairs,由Friends & Associates策展,展示了從3D列印回收材料到手工編織的多樣化設計。墨爾本正在見證中小型製造業的復興,特別是在先進、專業化和設計主導的生產領域。",
-      "context": "2026年全球設計界正經歷「反數位化」運動,設計師們重新擁抱手工製作、在地材料和獨特性,作為對AI生成內容和大規模生產的回應。澳洲設計師正引領這股潮流。",
-      "pov": "在AI泛濫的時代,手工製作和材料真實性成為設計價值的核心。",
+      "url": "https://www.dezeen.com/2026/05/26/heatherwick-studio-glasses-jins-movement-of-liquid/",
+      "image_url": "https://www.dezeen.com/cdn/shop/files/Heatherwick_Jins_hero.jpg",
+      "summary": "Heatherwick Studio為日本品牌Jins設計首個眼鏡系列,採用不對稱框架與波浪起伏表面。設計靈感源自水流、空氣運動和石頭的光澤,採用樹脂或鈦金屬製作。四種框型均具有起伏表面,摒棄傳統眼鏡的理性線性形式,創造更自然貼合臉部輪廓的有機輪廓。",
+      "details": "塑料框提供四種顏色:灰霧、琥珀石、溪蕨和黑曜石。設計理念強調眼鏡是「深具親密感的物件」,應該展現配戴者的個性特質,而非千篇一律的工業產品。",
+      "context": "Heatherwick Studio延續其以人為本的設計哲學,將建築和產品設計的思維應用於日常配件。這是工作室跨足眼鏡領域的首次嘗試,展現其多元設計能力。",
+      "pov": "日常物件也應具備情感共鳴與個性表達",
       "tags": [
-        "墨爾本設計週",
-        "手工製作",
-        "永續設計"
+        "眼鏡設計",
+        "Heatherwick",
+        "有機形態"
       ]
     },
     {
-      "title": "What aesthetic is this? Elizabeth Goodspeed on the push to categorise visual culture",
-      "source": "It's Nice That",
-      "category": "設計",
-      "url": "https://www.itsnicethat.com/articles/elizabeth-goodspeed-whats-in-a-name-categorising-aesthetics-creative-industry-190526",
-      "image_url": null,
-      "summary": "It's Nice That美國主編Elizabeth Goodspeed探討網路上日益增長的「這是什麼美學?」現象。她指出,這種將每個視覺作品歸類到命名類別的文化假設是相對新穎的——從Vaporwave到Cottagecore,圖像不再價值千言,現在只需一個詞。她援引Édouard Glissant的「不透明性」概念,提出抵抗輕易分類的可能性,在一個不斷要求將圖像和人命名的環境中,保持無名也許是一種抵抗。",
-      "details": "文章追溯了從宗教繪畫到社交媒體算法的圖像文化演變。演算法將圖像以聚類方式呈現,訓練觀眾將視覺相似性理解為更廣泛的歸屬證據。Ruby Thelot等評論家對indie sleaze等回溯性標籤提出批評。",
-      "context": "2026年,視覺文化的過度分類與標籤化達到頂峰。社交媒體演算法、AI圖像生成和趨勢預測產業共同推動了這種分類衝動,但也引發了關於創意自由和文化真實性的反思。",
-      "pov": "在演算法驅動的時代,拒絕被定義可能是最激進的創意立場。",
+      "title": "FOG Architecture draws on traditional Quanzhou houses for MSLAN store in China",
+      "source": "Dezeen",
+      "category": "時尚",
+      "url": "https://www.dezeen.com/2026/05/28/fog-architecture-mslan-flagship-quanzhou-china/",
+      "image_url": "https://www.dezeen.com/cdn/shop/files/FOG_MSLAN_hero.jpg",
+      "summary": "中國工作室FOG Architecture為本土時尚品牌MSLAN在泉州設計旗艦店,透過增設一系列庭園創造緩慢的購物體驗。店面位於泉州鐘樓旁,原為1970-80年代百貨公司的一樓轉角單元。空間立面狹長但進深淺,面臨繁忙街道的噪音困擾,設計以庭園作為緩衝區。",
+      "details": "三個結構間自然形成三個房間,每間配有小型庭園。設計借鑒泉州傳統民居的空間佈局,利用庭園作為過渡空間,幫助顧客從喧囂街道進入寧靜的購物環境。",
+      "context": "項目反映出中國零售空間設計的新趨勢:從追求視覺刺激轉向創造沉浸式體驗空間。透過傳統建築智慧解決現代城市問題,展現在地文化與當代設計的結合。",
+      "pov": "傳統庭園智慧重塑當代零售體驗",
       "tags": [
-        "視覺文化",
-        "美學分類",
-        "文化評論"
+        "零售空間",
+        "傳統建築",
+        "泉州"
       ]
     },
     {
-      "title": "The designers injecting DIY charm into Pigeons & Planes' annual mixtape",
-      "source": "It's Nice That",
+      "title": "Eighteen weird, wonderful and well-made objects from NYCxDesign 2026",
+      "source": "Dezeen",
       "category": "設計",
-      "url": "https://www.itsnicethat.com/features/jean-pierre-consuegra-leo-horton-pigeons-and-planes-mixtape-graphic-design-spotlight-180526",
-      "image_url": null,
-      "summary": "Jean Pierre Consuegra和Leo Horton為音樂媒體Pigeons & Planes 2026年度mixtape設計視覺,兩位設計師談論長時間線的美好、Instagram DM的力量,以及為何創意合作在具備不同專長時效果最佳。Pigeons & Planes在停刊七年後於2026年重新啟動網站,回歸其核心價值和部落格時代的能量。設計師們獲得了罕見的充裕時間來發展設計,避免了音樂產業常見的週轉時間壓力。",
-      "details": "設計融合了DIY美學與印刷品質感,反映了2008年P&P首次推出時的部落格時代精神。Consuegra和Horton都曾參與Clairo專輯設計團隊,被稱為「設計界的復仇者聯盟」。設計過程強調手工質感、長時程和藝術家間的有機合作。",
-      "context": "2026年見證了2000年代部落格文化的復興,音樂媒體重新擁抱長篇內容和策展美學。設計師們獲得更多創作自由,反映了對快節奏、演算法驅動內容的反思。",
-      "pov": "給設計師時間和自由,能創造出真正有意義的視覺體驗。",
+      "url": "https://www.dezeen.com/2026/05/27/nycxdesign-2026-objects/",
+      "image_url": "https://www.dezeen.com/cdn/shop/files/NYCxDesign_2026_hero.jpg",
+      "summary": "Dezeen編輯從NYCxDesign 2026精選18件奇特、精彩且製作精良的物件。展會呈現從數十盞夜燈到概念家具和創新學生作品的多元設計。涵蓋照明、座椅、壁紙等類別,展現本週設計活動的廣度。多個新興設計師選擇紐約作為作品發表地,顯示對城市創意場景的承諾。",
+      "details": "展會包括群展、主題展如Head-Hi的燈具展和Jonald Dudd的陳列展。設計強調技術工藝,從有限系列到合作產品線,反映NYCxDesign從收藏性單品轉向實用系列的趨勢。",
+      "context": "NYCxDesign作為美國重要設計周,2026年迎來第14屆。活動展現紐約設計界從概念走向商業化的轉變,同時保持創新實驗精神。",
+      "pov": "設計週從藝術收藏轉向實用美學",
       "tags": [
-        "平面設計",
-        "音樂視覺",
-        "部落格文化"
+        "NYCxDesign",
+        "產品設計",
+        "設計週"
       ]
     }
   ],
-  "generated_at": "2026-05-25T12:53:14.447Z"
+  "generated_at": "2026-05-28T12:55:37.815Z"
 }
