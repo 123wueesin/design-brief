@@ -1,69 +1,69 @@
 {
   "articles": [
     {
-      "title": "Studio We Live transforms 1950s Chinese cinema into teahouse with wooden canopy",
+      "title": "Bracelet that translates sign language into speech wins Rimowa Design Prize",
       "source": "Dezeen",
       "category": "設計",
-      "url": "https://www.dezeen.com/2026/06/01/jiangling-teahouse-studio-we-live/",
+      "url": "https://www.dezeen.com/2026/06/04/sign-language-bracelet-rimowa-design-prize-2026-video/",
       "image_url": null,
-      "summary": "中國Studio We Live工作室將重慶大石壩的廢棄工人電影院改造成茶館和美食市場。這座建於1957年的建陵機械廠職工電影院在2011年被廢棄改為停車場,工作室在改造中保留了大部分破舊的牆壁、原始屋頂桁架和老電影座椅,加入樓梯和平台創造不同標高,並在入口處用回收木材打造遮篷。",
-      "details": "內部大廳保留了一部分原始電影座椅區,地板漆成紅色營造紅毯感。屋頂結構和褪色的宣傳標語被保留,原有的砲管柱子支撐著一樓夾層。新增的鋼製樓梯和平台連接地面座位區與上層包廂式夾層空間。",
-      "context": "這個項目體現了中國城市更新趨勢中對歷史建築的保護性再利用。工作室認為城市再生不是清理舊物塗上新漆,而是讓不同世代的人在同一屋簷下找到自己的位置,展現了對工業遺產活化的新思路。",
-      "pov": "項目透過保留歷史痕跡與加入當代元素的平衡手法,創造出連結過去與現在的共享空間,強調公眾參與才是項目真正完成的關鍵。",
+      "summary": "一款名為Nura的穿戴式溝通裝置贏得2026年Rimowa設計獎。這款手環能將手語轉換為語音,同時將語音轉換為文字,幫助聾人與聽人之間的溝通。由柏林學生Samuel Nagel與Paul Feiler設計,靈感來自魔鬼魚的流線造型,獲得2萬歐元獎金。該裝置使用肌電圖(EMG)感應器捕捉前臂肌肉活動來翻譯手語。",
+      "details": "產品採用EMG感應器技術,能即時捕捉肌肉活動並轉換為語音,同時也能將語音轉為可見文字。設計外觀靈感源自魔鬼魚,讓輔助科技看起來更像時尚配件而非醫療器材,改寫了無障礙設計的美學標準。",
+      "context": "這是Rimowa設計獎第四屆,從德國40多所大學的參賽作品中脫穎而出。該獎項專注於「移動性」主題的廣義詮釋,鼓勵學生探索能改善日常生活行動自由的設計解決方案,從醫療裝置到城市設計都包含在內。",
+      "pov": "將無障礙科技美學化,證明功能性與吸引力可以並存",
       "tags": [
-        "歷史建築改造",
-        "茶館設計",
-        "工業遺產"
+        "無障礙設計",
+        "穿戴裝置",
+        "手語翻譯"
       ]
     },
     {
-      "title": "Meltable wax lamps by Baguette Studio can be endlessly remade",
+      "title": "Ferrari launches first electric car by Jony Ive and Marc Newson",
       "source": "Dezeen",
       "category": "設計",
-      "url": "https://www.dezeen.com/2026/06/01/baguette-studio-wax-lamps-le-labo/",
+      "url": "https://www.dezeen.com/2026/05/25/electric-ferrari-luce-jony-ive-marc-newson-lovefrom/",
       "image_url": null,
-      "summary": "巴黎Baguette Studio開發出可無限回收再製的蜂蠟燈具系列Le Labo 1.0。該系列包含壁燈、吊燈和兩種尺寸的檯燈,全部使用相同的不鏽鋼底座和電氣組件,燈罩由400或800克蜂蠟製成。工作室自行打造旋轉鑄造機,讓檯燈可輕易轉換為壁燈或吊燈,實現零浪費和無需新材料。",
-      "details": "製作過程是將蜂蠟顆粒融化後倒入兩部分模具中,夾在旋轉約45分鐘的框架內直到蜂蠟塗滿模具內部。這種可拆卸的旋轉鑄造機曾在米蘭設計週的Alcova展覽和Isola Design Gallery展出現場製作演示。",
-      "context": "此項目呼應當前設計界對循環經濟和材料永續性的關注。工作室重新詮釋工業旋轉鑄造技術,將其縮小到城市尺度,探索塑料的天然替代材料,開發出能承受高溫且易於塑形的蜂蠟配方。",
-      "pov": "設計師提出擁有物件轉向擁有材料的新概念,使用者實際上擁有的是可熔化重塑的蜂蠟重量,而非固定形式的燈具,挑戰傳統產品所有權模式。",
+      "summary": "法拉利在羅馬發表首款電動車Ferrari Luce,由Jony Ive與Marc Newson的設計工作室LoveFrom操刀設計。這款五人座跑車特色是大型曲面玻璃車艙與鋁製車身面板,搭配前後空氣動力學翼片,形成淚滴狀外觀。車內採用機械按鈕與觸控顯示結合的介面設計,拒絕大面積觸控螢幕主導的慣例。",
+      "details": "Ferrari Luce長度超過5公尺,採用四輪獨立馬達系統,總輸出功率1,035匹馬力,極速達310公里/小時。雨刷採垂直配置以減少空氣阻力,電池模組設計考量未來升級可能性。車內使用玻璃與鋁合金等觸感材質,中控台整合E Ink顯示鑰匙。",
+      "context": "這是法拉利首款純電車型,也是品牌首次推出五人座車款。設計團隊強調內外設計的一致性,確保從外觀到內裝都出自同一設計理念。LoveFrom負責完整的設計方向,挑戰電動車必須由大型觸控螢幕主導的產業慣例。",
+      "pov": "重新定義電動超跑美學,拒絕觸控螢幕霸權",
       "tags": [
-        "永續設計",
-        "循環材料",
-        "照明設計"
+        "電動車",
+        "工業設計",
+        "LoveFrom"
       ]
     },
     {
-      "title": "Apple revives Designers of Tomorrow initiative at Design Miami.Paris",
-      "source": "Dezeen",
+      "title": "Ey Studio avoided 'gourmet' trends for Alemagna rebrand",
+      "source": "It's Nice That",
       "category": "設計",
-      "url": "https://www.dezeen.com/2026/06/02/apple-designers-tomorrow-emerging-designers/",
+      "url": "https://www.itsnicethat.com/articles/ey-studio-alemagna-branding-project-010625",
       "image_url": null,
-      "summary": "蘋果公司宣布將在2026年10月的Design Miami.Paris展會上再次舉辦Designers of Tomorrow展覽,以展示新銳設計師作品。展覽將展出四位新興設計師的作品,由AGO Projects聯合創始人Rodman Primack領導的評審團選出,評委包括奈及利亞設計師Nifemi Marcus-Bello和蘋果工業設計主管Molly Anderson。",
-      "details": "今年的主題是「Design for Presence」,探索人們如何放慢腳步、更加專注當下。這是繼去年首屆展覽後的第二屆,去年展出了倫敦設計師Marco Campardo、巴黎組合Marie & Alexandre、上海的韓篤一和越裔美籍陶藝家Jolie Ngo的作品。",
-      "context": "蘋果持續推動設計領域的新銳人才培育計畫,展現科技巨頭對設計產業生態的長期投入。此舉也呼應設計界對年輕設計師支持體系的重視,為新興創意人才提供國際曝光平台。",
-      "pov": "展覽體現蘋果「深思熟慮的設計能讓日常生活更人性化、更個人化、更緊密連結」的設計哲學,同時認可那些具有相同用心、好奇心和對材料工藝欣賞的新銳設計師。",
+      "summary": "義大利設計工作室Ey Studio為米蘭知名甜點品牌Alemagna進行品牌重塑,避開當代精緻美食趨勢,回歸品牌在義大利經濟奇蹟時期的現代主義根源。Alemagna是生產Panettone的百年老店,承載義大利文化記憶。設計團隊深入研究品牌從米蘭大教堂廣場第一家店到Autogrill的完整歷史。",
+      "details": "設計避開精緻美食視覺套路,捕捉1950-60年代義大利躍進現代化與大量生產時期的視覺語言。將義大利現代主義、工藝精神與工業化生產融入新標誌與品牌標記中,打造適合2026年的品牌識別系統,同時保留歷史底蘊。",
+      "context": "戰後義大利經濟奇蹟時期,許多家族食品企業擴展為國際品牌,Alemagna便是其中代表。此次品牌重塑不只是復刻歷史包裝,而是將那個時代義大利設計精神轉譯為當代語言,呼應該品牌在義大利文化中的地位。",
+      "pov": "避開精緻化套路,回歸現代主義本質",
       "tags": [
-        "新銳設計師",
-        "設計展覽",
-        "蘋果設計"
+        "品牌識別",
+        "義大利設計",
+        "食品包裝"
       ]
     },
     {
-      "title": "Apple reveals winners of the 2026 Apple Design Awards",
-      "source": "Apple (reported by Dezeen)",
-      "category": "設計",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-reveals-winners-of-the-2026-apple-design-awards/",
+      "title": "Music venues graphic ephemera at V&A exhibition",
+      "source": "It's Nice That",
+      "category": "時尚",
+      "url": "https://www.itsnicethat.com/features/victoria-and-albert-museum-lost-music-venues-harriet-reed-graphic-design-spotlight-030626",
       "image_url": null,
-      "summary": "蘋果公司宣布2026年度Apple Design Awards得獎名單,表彰12款在創新、藝術性和技術成就方面表現卓越的應用程式和遊戲。得獎作品從全球36個入圍者中選出,涵蓋六大類別:樂趣與愉悅、包容性、創新性、互動性、社會影響力、視覺與圖形。每個類別各選出一款應用程式和一款遊戲。",
-      "details": "得獎作品展現了開發者如何創造卓越體驗。例如樂趣與愉悅類別的得獎應用grug提供每日智慧啟發,而遊戲Is This Seat Taken?則以卡通風格呈現有趣的邏輯謎題。視覺與圖形類別由CD Projekt S.A.的Cyberpunk 2077: Ultimate Edition獲獎。",
-      "context": "Apple Design Awards是全球應用程式設計界的重要指標,反映當前應用程式設計的趨勢和標準。2026年的得獎作品顯示設計界更加重視使用者體驗的多元面向,從情感連結到社會責任都成為評選重點。",
-      "pov": "蘋果開發者關係副總裁Susan Prescott表示,今年的得獎者充分展現開發者如何創造卓越體驗,肯定了全球開發團隊在應用程式與遊戲設計上的創新、藝術性和技術成就。",
+      "summary": "V&A博物館新展覽紀念與保存正在消失的現場音樂場館視覺文化。策展人Harriet Reed與團隊收集音樂場館的平面設計與插畫作品,從海報、貼紙到空間標誌,呈現這些承載社群記憶與青春歲月的視覺語言。展覽不只哀悼場館消失,更鼓勵珍惜仍存在的空間,並想像未來可能性。",
+      "details": "展覽聚焦音樂場館的視覺短暫物件:沾滿啤酒的地板、震耳音響系統、廁所隔間上的貼紙炸彈、政治訊息與徽章。這些元素構成場館獨特的視覺身份,記錄青年文化、社群認同與音樂現場的集體記憶,成為文化檔案的一部分。",
+      "context": "英國現場音樂場館持續關閉,疫情加速這個趨勢。音樂場館不只是表演空間,更是創意產業引擎與社群凝聚核心。展覽提醒人們這些空間的文化價值,並透過視覺檔案保存即將消失的場館記憶與美學。",
+      "pov": "視覺短暫物作為文化記憶的載體",
       "tags": [
-        "應用程式設計",
-        "設計獎項",
-        "數位體驗"
+        "展覽",
+        "音樂文化",
+        "平面設計"
       ]
     }
   ],
-  "generated_at": "2026-06-03T05:59:36.628Z"
+  "generated_at": "2026-06-05T05:12:02.722Z"
 }
